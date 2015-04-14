@@ -4,9 +4,7 @@ Client communicate with PERMIS standalone server.
 
 # oauth_multi_domain
 
-- OAuth­client : a simple oauth2.0 client (web service) communicate with OAuthAuthzServ 
-
-server. It can simulate all situation of the authorization grant.
+- OAuth­client : a simple oauth2.0 client (web service) communicate with OAuthAuthzServ server. It can simulate all situation of the authorization grant.
 
 - OAuthAuthzServ and spring framework.
 
