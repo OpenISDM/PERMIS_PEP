@@ -1,0 +1,4 @@
+standaloneServer = 140.113.216.109:8080/axis2/services/AuthzService?wsdl
+sqlServer = 140.113.216.109/memdas
+sqlAccount = permis_pep
+sqlPasswd = 123456
